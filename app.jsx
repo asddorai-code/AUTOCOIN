@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 
 const COINS = [
   { id: "BTC", name: "비트코인", base: 132000000, color: "#F7931A", vol: 0.018 },
